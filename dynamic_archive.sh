@@ -26,13 +26,13 @@ display_menu() {
     echo -e "\e[1;34m==================================================================\e[0m"
     echo -e
     
-    echo -e "\e[1;33m========== TAR ==========\e[0m" 
+    echo -e "\e[1;33m========== TAR =========\e[0m" 
     echo "1) Archive 📦🔒"
     echo "2) Extract 📥🔒"
     echo -e "\e[1;33m========================\e[0m"    
     echo -e
     
-    echo -e "\e[1;33m========== ZIP ==========\e[0m"  
+    echo -e "\e[1;33m========== ZIP =========\e[0m"  
     echo "3) Archive 📦🔒"
     echo "4) Extract 📥🔒"
     echo -e "\e[1;33m========================\e[0m"  
@@ -50,7 +50,7 @@ display_menu() {
     echo -e "\e[1;33m========================\e[0m"  
     echo -e
 
-    echo -e "\e[1;34m==============================\e[0m" 
+    echo -e "\e[1;34m==================================================================\e[0m" 
 }
 
 trap 'echo -e "\nDynamicArchive has been terminated."; exit' INT
