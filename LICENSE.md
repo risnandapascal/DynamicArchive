@@ -1,25 +1,11 @@
-License
+The MIT License
 ==============
-Lisensi MIT
 
-Hak Cipta (c) 2024 | Risnanda Pascal
+Copyright (c) 2024 | Risnanda Pascal
 
-Izin dengan ini diberikan, secara gratis, kepada setiap orang yang memperoleh salinan
-perangkat lunak ini dan berkas dokumentasi terkait (selanjutnya disebut sebagai "Perangkat
-Lunak"), untuk melakukan perdagangan di Perangkat Lunak tanpa batasan, termasuk tanpa
-batasan hak untuk menggunakan, menyalin, memodifikasi, menggabungkan, menerbitkan,
-mendistribusikan, mensublisensikan, dan/atau menjual salinan dari Perangkat Lunak, serta
-izin kepada orang yang diberikan Perangkat Lunak untuk melakukan hal tersebut, dengan
-syarat berikut:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-Pemberitahuan hak cipta di atas dan pemberitahuan izin ini harus disertakan dalam semua
-salinan atau bagian penting dari Perangkat Lunak.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-PERANGKAT LUNAK DIBERIKAN "APA ADANYA", TANPA JAMINAN APA PUN, BAIK SECARA
-TERTULIS ATAU SECARA LISAN, TERMASUK TETAPI TIDAK TERBATAS PADA JAMINAN
-KEKAYAAN, KECOCOKAN UNTUK TUJUAN TERTENTU, DAN KEBEBASAN DARIPADA
-PELANGGARAN. DALAM KEADAAN APA PUN PARA PENULIS ATAU PEMILIK HAK CIPTA TIDAK
-BERTANGGUNG JAWAB ATAS KLAIM, KERUSAKAN, ATAU KEWAJIBAN LAINNYA, BAIK DALAM
-TINDAKAN KONTRAK, KECELAKAAN, ATAU KESALAHAN LAIN, YANG TIMBUL DARI, KELUAR
-DARI, ATAU BERHUBUNGAN DENGAN PERANGKAT LUNAK ATAU PENGGUNAAN ATAU
-PENYELESAIAN PERANGKAT LUNAK.   
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
